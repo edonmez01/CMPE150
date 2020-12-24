@@ -1,0 +1,14 @@
+AnaDegiskenler
+
+x1 degeri 1 olsun
+x2 degeri dogru olsun
+x3 degeri yanlis olsun
+
+YeniDegiskenler
+
+t1 degeri x1 olsun
+t2 degeri t1 olsun
+t1 degeri t2 olsun
+
+
+Sonuc

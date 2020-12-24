@@ -1,0 +1,12 @@
+2
+3
+1
+fire
+fire
+left
+fire
+fire
+right
+right
+fire
+fire

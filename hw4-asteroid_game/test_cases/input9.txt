@@ -1,0 +1,8 @@
+6
+7
+2
+fire
+left
+fire
+left
+exit

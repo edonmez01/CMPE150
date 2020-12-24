@@ -1,0 +1,16 @@
+AnaDegiskenler
+
+x0 degeri dort nokta dort olsun
+x1 degeri 1 olsun
+x2 degeri dogru olsun
+x3 degeri yanlis olsun
+
+YeniDegiskenler
+
+t1 degeri x0 + x1 arti ( x2 ) olsun
+t2 degeri ((((((((((((((((((((((((((((x0)))))))))))))))))))))))))))) olsun
+t3 degeri ((((((((((((((((((((((((((((())))))))))))))))))))))))))))) olsun
+t4 degeri + x0 + x1 + olsun
+t5 degeri bir +  nokta + sifir olsun
+
+Sonuc

@@ -1,0 +1,12 @@
+3
+5
+1
+rIgHt
+LeFt
+rIgHt
+fIrE
+LeFt
+fIrE
+LeFt
+fIrE
+ExIt
