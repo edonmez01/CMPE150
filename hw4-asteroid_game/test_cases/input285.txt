@@ -1,9 +1,0 @@
-5
-2
-1
-LeFt
-LeFt
-rIgHt
-fIrE
-fIrE
-ExIt

@@ -1,8 +1,0 @@
-2
-3
-0
-fire
-left
-fire
-right
-right
